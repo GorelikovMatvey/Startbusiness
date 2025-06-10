@@ -36,12 +36,15 @@
 
 ## Документы проекта
 
-| Документ | Ссылка |
-|----------|--------|
-| Паспорт проекта | [https://disk.yandex.ru/i/CuXHEQI7TJQ96w](https://disk.yandex.ru/i/CuXHEQI7TJQ96w) |
-| Техническое задание | [https://disk.yandex.ru/i/y_5RoMaoNgOkQQ](https://disk.yandex.ru/i/y_5RoMaoNgOkQQ) |
-| Руководство пользователя | [https://disk.yandex.ru/i/gyUMoh7r6Za8lg](https://disk.yandex.ru/i/gyUMoh7r6Za8lg) |
-| Диаграмма Ганта (MS Project) | [https://disk.yandex.ru/d/ARh9HKCADPRVNw](https://disk.yandex.ru/d/ARh9HKCADPRVNw) |
-| WBS-структура задач | [https://disk.yandex.ru/d/3YmGdbj-tX7nuw](https://disk.yandex.ru/d/3YmGdbj-tX7nuw) |
-| Диаграмма вариантов использования (Use Case) | [https://disk.yandex.ru/i/CJhdCHIdNpRp1g](https://disk.yandex.ru/i/CJhdCHIdNpRp1g) |
-| Диаграмма деятельности (Activity) | [https://disk.yandex.ru/i/vuHqwEQUkrs8SA](https://disk.yandex.ru/i/vuHqwEQUkrs8SA) |
+## 📎 Проектные документы
+
+| Документ                             | Ссылка |
+|--------------------------------------|--------|
+| Паспорт проекта                      | [Паспорт проекта](https://disk.yandex.ru/i/gyUMoh7r6Za8lg) |
+| Техническое задание                  | [Техническое задание](https://disk.yandex.ru/i/04ydRotWV4BAVA) |
+| Руководство пользователя             | [Руководство пользователя](https://disk.yandex.ru/i/y_5RoMaoNgOkQQ) |
+| UML-диаграмма базы данных            | [UML-диаграмма БД](https://disk.yandex.ru/i/CuXHEQI7TJQ96w) |
+| Диаграмма Ганта с WBS                | [Диаграмма Ганта с WBS](https://disk.yandex.ru/d/3YmGdbj-tX7nuw) |
+| Тест-кейсы для API-методов           | [Тест-кейсы](https://disk.yandex.ru/i/vuHqwEQUkrs8SA) |
+| Смета по проекту                     | [Смета](https://disk.yandex.ru/d/ARh9HKCADPRVNw) |
+
